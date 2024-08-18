@@ -1,0 +1,7 @@
+- Hi I'm Odin
+- I Like to code C++ 
+- I want to learn Kernel Development
+- Im the owner of NMS -> discord.gg/93FRWJUurU
+- How to reach me discord -> @odin123w
+- programming languages i know: C++, GSC and i want to learn kernel
+- Fun fact: When we die, our atoms will become incorporated in the environment and eventually in other living beings. It is estimated that every glass of water we drink contains some water molecules that went through a dinosaur and were expelled in its urine. Living bodies may recirculate atoms, but the atoms themselves persist.
