@@ -1,5 +1,4 @@
 - Hi I'm Odin
-- Im the owner of Vantage -> https://vantagecheats.xyz
 - How to reach me discord -> @odin123w
 - programming languages i know: C++, tiny bit GSC and im learning windows kernel mode
 - Fun fact: When we die, our atoms will become incorporated in the environment and eventually in other living beings. It is estimated that every glass of water we drink contains some water molecules that went through a dinosaur and were expelled in its urine. Living bodies may recirculate atoms, but the atoms themselves persist.
